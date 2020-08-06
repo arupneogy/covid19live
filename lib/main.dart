@@ -1,4 +1,4 @@
-import 'package:covid19live/model/covidDetail.dart';
+//import 'package:covid19live/model/covidDetail.dart';
 import 'package:covid19live/screens/Home.dart';
 import 'package:covid19live/services/HtmlLoad.dart';
 import 'package:covid19live/services/HtmlParse.dart';
